@@ -1,0 +1,12 @@
+.App {
+  max-width: 600px;
+  margin: 30px auto;
+  padding: 20px;
+  border: 1px solid #c9c9c9;
+  border-radius: 5px;
+  background-color: #ffffff;
+}
+
+body {
+  background: image url("../images/background-shadowcut.jpg");
+}
